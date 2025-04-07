@@ -1,0 +1,6 @@
+<!-- person.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24">
+  <!-- A simple silhouette of a person: a rectangle for the torso and a simplified base -->
+  <rect x="9" y="5" width="6" height="10" fill="#888" />
+  <path d="M7 15c0 2 2 4 5 4s5-2 5-4v-2H7v2z" fill="#888"/>
+</svg>
